@@ -16,7 +16,7 @@ bool raw[N], stable[N], tested[N];
 unsigned long changed[N];
 bool swRaw = false, swStable = false, swTested = false;
 unsigned long swChanged = 0;
-bool joyPrint = false;  
+bool joyPrint = true;  
 
 int xMin = 4095, xMax = 0, yMin = 4095, yMax = 0;
 unsigned long lastJoyPrint = 0;
