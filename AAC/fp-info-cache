@@ -1,4 +1,4 @@
-26722589112799223
+26724384148919326
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -20,6 +20,13 @@ SW_B3F-4055
 0
 4
 4
+B3F-4055
+SW_B3F-4055_one_side
+
+
+0
+2
+2
 BNO080
 BNO_080
 Through hole straight pin header, 1x10, 2.54mm pitch, single row
